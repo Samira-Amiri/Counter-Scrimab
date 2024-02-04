@@ -1,0 +1,23 @@
+.con{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(195, 141, 245);
+    padding-top: 50px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 20px;
+    border-radius: 30%;
+    box-shadow: 12px 12px 12px rgb(100, 96, 96);
+
+}
+
+#increment-btn, #save-btn{
+    background-color: black;
+    color: white;
+    padding: 9px;
+    border-radius:10px;
+}
+#save-el{
+    font-size: 20px;
+}
